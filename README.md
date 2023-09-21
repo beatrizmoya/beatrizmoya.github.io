@@ -8,7 +8,7 @@ Research Fellow (June 2023-present) @ CNRS@CREATE
 * Data-assimilation and hybrid twins for structural health monitoring
 
 
-Margarita Salas Postdoctoral Researcher (Dec 2022- June 2023) @ ENSAM Paris - University of Zaragoza** 
+Margarita Salas Postdoctoral Researcher (Dec 2022- June 2023) @ ENSAM Paris - University of Zaragoza 
 * Physically Guided Generative Adversarial Neural Networks for efficient architecural design
 
 
