@@ -3,25 +3,25 @@
 
 ## Work Experience
 
-**Research Fellow (June 2023-present)** CNRS@CREATE
-Researcher at [Descartes](https://descartes.cnrsatcreate.cnrs.fr/) project 
-Data-assimilation and hybrid twins for structural health monitoring
+**Research Fellow (June 2023-present) @ CNRS@CREATE**
+-Researcher at [Descartes](https://descartes.cnrsatcreate.cnrs.fr/) project 
+-Data-assimilation and hybrid twins for structural health monitoring
 
-**Margarita Salas Postdoctoral Researcher (Dec 2022- June 2023)** Arts et Métiers ParisTech-University of Zaragoza
-Physically Guided Generative Adversarial Neural Networks for efficient architecural design
+**Margarita Salas Postdoctoral Researcher (Dec 2022- June 2023) @ Arts et Métiers ParisTech-University of Zaragoza** 
+-Physically Guided Generative Adversarial Neural Networks for efficient architecural design
  
-**Postdoctoral Researcher (2022)** University of Zaragoza
-Generative design of funicular shell structures based on stress criteria. 
+**Postdoctoral Researcher (2022) @ University of Zaragoza**
+-Generative design of funicular shell structures based on stress criteria. 
  
-**Early Stage Researcher (Sept 2021–March 2022)** École Polytechnique Fédéral de Lausanne (EPFL)
-Advanced Model Order Reduction in unstructured meshes with geometric deep learning. 
-Advisor: Jan S. Hesthaven
+**Early Stage Researcher (Sept 2021–March 2022) @ École Polytechnique Fédéral de Lausanne (EPFL)**
+-Advanced Model Order Reduction in unstructured meshes with geometric deep learning. 
+-Advisor: Jan S. Hesthaven
  
-**Early Stage Researcher (2018–2022)** University of Zaragoza
-Physically sound data-driven fluid dynamics.
+**Early Stage Researcher (2018–2022) @ University of Zaragoza**
+-Physically sound data-driven fluid dynamics.
  
-**Research Assistant (Sept 2014–Jan 2015)** San Diego State University
-Design of aortic root and implementation in biomechanical simulator.
+**Research Assistant (Sept 2014–Jan 2015) @ San Diego State University**
+-Design of aortic root and implementation in biomechanical simulator.
 
 ## Education
 **University of Zaragoza (2018–2022) Ph.D. Mechanical Engineering**
