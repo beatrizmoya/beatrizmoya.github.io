@@ -16,7 +16,7 @@ Postdoctoral Researcher (2022) @ University of Zaragoza
 * Generative design of funicular shell structures based on stress criteria.
 
 
-Early Stage Researcher (Sept 2021–March 2022) @ EPFL**
+Early Stage Researcher (Sept 2021–March 2022) @ EPFL
 * Advanced Model Order Reduction in unstructured meshes with geometric deep learning. 
 * Advisor: Jan S. Hesthaven
 
