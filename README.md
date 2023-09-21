@@ -46,4 +46,37 @@ University of Zaragoza (2011–2015) BSc Mechanical Engineering
 * Thesis: Lotus Meditation Assistive Device Using EEG to Measure State of Mind.
 * International student: San Diego State University (2014-2015). GPA: 3.8/4.0
 
+## TEACHING
+
+University of Zaragoza. Teaching assistant (2019–2022) 240h 
+
+* Structures 2. BSc Architecture. 2021/2022.
+  
+* Structures 3. BSc Architecture. 2020/21.
+  
+* Biostatistics and Numerical Simulation in Bioengineering. MSc Biomedical Engineering. 2020/2021.
+  
+* Computational Simulation in Structural Engineering. MSc Industrial Engineering. 2020/2021.
+  
+* Structures 1. BSc Architecture. 2019/2020.
+  
+* Resistance of materials. BSc Mechanical Engineering. 2019/2020.
+  
+* Resistance of materials. BSc Chemical Engineering. 2022/2023.
+  
+* Industrial buildings and structural theory. MSc Industrial Engineering. 2022/2023.
+  
+* Structural analysis of industrial facilities. BSc Mechanical Engineering 2022/2023.
+
+### MASTER THESIS
+1. Physics-aware data-driven modelling of biological soft tissues (2021). Nicolás Escribano.
+   
+1. Application of Graphic Statics for Structural Design (2023). Sergio Lorente.
+
+
+### MASTER THESIS
+1. Design of sustainable structures through parametric calculation and optimization (2022). Sergio Lorente.
+
+1. Generative design of structures using physics-driven artificial intelligence (2023). Guillén Vicente.
+
 
