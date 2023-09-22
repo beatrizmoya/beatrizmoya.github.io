@@ -3,7 +3,7 @@
 
 ## WORK EXPERIENCE
 
-Research Fellow (June 2023-present) @ CNRS@CREATE
+**Research Fellow (June 2023-present) @ CNRS@CREATE**
 * Researcher at [Descartes](https://descartes.cnrsatcreate.cnrs.fr/) project 
 * Data-assimilation and hybrid twins for structural health monitoring
 
