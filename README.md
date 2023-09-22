@@ -75,23 +75,24 @@ University of Zaragoza. 240h
 ## AFFILIATIONS
 * Member of the Young Researchers Section of the Spanish Society of Computational Mechanics and Computational Engineering (SEMNI)
 
-## AWARDS & FUNDING
+## PROJECTS & FUNDING
+* Margarita Salas fellowship. Self-funded NEXT GEN project Dec 2022 - Dec 2024.
 
-* Margarita Salas fellowship. Dec 2022 - Dec 2024.
+* Ibercaja Scholarship for International Research stays. 2021.
+
+* FPI fellowship for PhD research funding. Spanish Ministry of Science. 2019-2022.
+
+## AWARDS
 
 * Tercer Milenio Young Researchers Talent Award, awarded by Heraldo de Aragon. “This award is given to young researchers (under 35 years of age) who develop their activity in the field of science and technology. With the aim of stimulating new talents born or trained in Aragon, the award will be given to profiles whose emerging trajectory stands out in a special way or has a significant potential”. 2022.
 
-* Ibercaja Scholarship for international Research stays. 2021.
-
 * Finalist Arts&Science Contest at WCCM 2020 with “Figments of reality”.
-* 
-* FPI fellowship for PhD research funding. Spanish Ministry of Science. 2019-2022.
 
 * Torres de Miguel Award. Award to the best project. Given by the Official Engineering Association of Aragon, Navarra and La Rioja. Zaragoza (Spain). 2018.
 
-* Member of San Diego State University’s Dean’s list. Named to San Diego State University Dean’s List Fall 2014 and Spring 2015. The Dean’s List recognizes academic achievement within a single semester or semester.
+* Member of San Diego State University’s Dean’s list. Named to San Diego State University Dean’s List Fall 2014 and Spring 2015. The Dean’s List recognizes academic achievement within a single semester or semester. 
 
-* ‘America, Asia and Oceania’ Scholarship for bachelor international studies out of Europe. 2014.
+* ‘America, Asia and Oceania’ Scholarship for bachelor international studies out of Europe. San Diego State University, US. 2014.
 
 * Fellowship of good academic standing for language immersion in Canada, given by the Regional Government of Aragon (Spain). 2011.
 
