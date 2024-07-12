@@ -3,9 +3,11 @@
 
 ## WORK EXPERIENCE
 
+
+
 **Research Fellow (June 2023-present) @ CNRS@CREATE**
 * Researcher at [Descartes](https://descartes.cnrsatcreate.cnrs.fr/) project 
-* Data-assimilation and hybrid twins for structural health monitoring
+* Data assimilation and hybrid twins for structural health monitoring
 
 Margarita Salas Postdoctoral Researcher (Dec 2022- June 2023) @ ENSAM Paris - University of Zaragoza 
 
@@ -53,24 +55,54 @@ University of Zaragoza. 240h
 ### MASTER THESIS
 1. Physics-aware data-driven modelling of biological soft tissues (2021). Nicolás Escribano.
    
-1. Application of Graphic Statics for Structural Design (2023). Sergio Lorente.
+2. Application of Graphic Statics for Structural Design (2023). Sergio Lorente. With honors. 
 
 
 ### BACHELOR THESIS
-1. Design of sustainable structures through parametric calculation and optimization (2022). Sergio Lorente.
+1. Design of sustainable structures through parametric calculation and optimization (2022). Sergio Llorente.
 
-1. Generative design of structures using physics-driven artificial intelligence (2023). Guillén Vicente.
+2. Generative design of structures using physics-driven artificial intelligence (2023). Guillén Vicente.
 
 ## INNOVATION PROGRAMS
 
 1. Teaching innovation project on Graphic Statics. Incorporation of Computational graphic statics in BSc Architecture. Academic Year 2021-2022.
 
+## CONFERENCES & PRESENTATIONS
+
+*	Physics-informed Generative Adversarial Networks for interactive structural shell design. Eccomas Young Investigators Conference VIII- Oporto, Portugal. 2023. 
+*	Reinforcement for physically sound fluid dynamics correction. CMN 2022 – Las Palmas de Gran Canaria, Spain.
+*	Thermodynamics of learning physical phenomena. MaxEnt 2022 Paris, France. 
+*	Hybrid twins based on physically sound incremental learning. MMLDT-CSET 2021- San Diego, US; ONLINE. 2021. 
+*	Deep learning of fluid dynamics from free surface data for full state reconstruction and correction. Eccomas Young Investigators Conference VII- Valencia, Spain; ONLINE. 2021. 
+*	Physically sound deep learning development of digital twins from partial measurements of real-world data. Coupled Problems in Engineering 2021- Chia Laguna, Italy; ONLINE.
+*	Thermodynamics-based learning of fluid dynamics from partial information. Joint European Thermodynamics Conference 2021- Prague, Czech Republic; ONLINE.
+*	Hybrid twins for fluid applications. World Congress in Computational Mechanics - Paris, France; ONLINE. 2020.
+*	Manifold Learning of complex fluid behavior for real-time simulation. Eccomas Young Investigators Conference VI- Krakow, Poland. 2019.
+*	Data-driven learning of slosh dynamics. Congress on Numerical Methods in Engineering- Guimaraes, Portugal. 2019.
+*	Data-driven, reduced-order modeling and simulation of free-surface flows. Coupled problems in Engineering- Sitges, Spain. 2019. 
+*	Data-based manifold learning of sloshing dynamics. DataBest2019- Paris, France.
+
+
+## KEYNOTES
+*Thermodynamically admissible reinforcement learning in the development of cognitive digital twins. IUTAM Symposium on Data-Driven Mechanics and Surrogate Modeling 2022. Paris, France. 
+*Thermodynamics-informed reinforcement learning of fluid dynamics from observation. World Congress in Computational Mechanics and Asian-Pacific Congress on Computational Mechanics (WCCM 2022). Yokohama, Japan; ON LINE
+
+## MINISYMPOSIUM ORGANIZATION
+*	Physical models and reduced order models augmentation with data for physics-informed machine learning in real-world applications. World Congress in Computational Mechanics 2024. Organized together with Marco Tezzele, Annika Robens-Radermacher and Chady Ghnatios. 
+* Scientific Machine Learning techniques for complex engineering systems. ECCOMAS Young Investigators Conference 20213. Organized together with Matteo Giacomini, Alberto Badías and Filippo Masi. 
+*	Model order reduction and artificial intelligence techniques for surrogate and data-assisted models in computational engineering. ECCOMAS Young Investigators Conference 2021. Organized together with Matteo Giacomini and Alberto Badías. 
+
+
+
 ## ROLES
-* Member of the Scientific Commission at University of Zaragoza. Elected as representative of the doctoral alumni. 2020-2022.
+
+**Coordinator (June 2024-present)**
+
+* Member of the Scientific Commission at the University of Zaragoza. Elected as representative of the doctoral alumni. 2020-2022.
   
-* Member of Member of the steering commission, Ph. D. program on Mechanical Engineering at the University of Zaragoza. 2020-2022.
+* Member of the steering commission, Ph. D. program on Mechanical Engineering at the University of Zaragoza. 2020-2022.
   
-* Member of Quality commission. Ph. D. program on Mechanical Engineering at the University of Zaragoza. 2020-2022.
+* Member of Quality Commission. Ph. D. program in Mechanical Engineering at the University of Zaragoza. 2020-2022.
 
 ## AFFILIATIONS
 * Member of the Young Researchers Section of the Spanish Society of Computational Mechanics and Computational Engineering (SEMNI)
@@ -84,15 +116,17 @@ University of Zaragoza. 240h
 
 ## AWARDS
 
-* Tercer Milenio Young Researchers Talent Award, awarded by Heraldo de Aragon. “This award is given to young researchers (under 35 years of age) who develop their activity in the field of science and technology. With the aim of stimulating new talents born or trained in Aragon, the award will be given to profiles whose emerging trajectory stands out in a special way or has a significant potential”. 2022.
+**Award to best Teaching innovation project by Chair Banco Santander (University of Zaragoza)**
+
+* Tercer Milenio Young Researchers Talent Award, awarded by Heraldo de Aragon. “This award is given to young researchers (under 35 years of age) who develop their activity in science and technology. To stimulate new talents born or trained in Aragon, the award will be given to profiles whose emerging trajectory stands out specially or has a significant potential”. 2022.
 
 * Finalist Arts&Science Contest at WCCM 2020 with “Figments of reality”.
 
 * Torres de Miguel Award. Award to the best project. Given by the Official Engineering Association of Aragon, Navarra and La Rioja. Zaragoza (Spain). 2018.
 
-* Member of San Diego State University’s Dean’s list. Named to San Diego State University Dean’s List Fall 2014 and Spring 2015. The Dean’s List recognizes academic achievement within a single semester or semester. 
+* San Diego State University Dean’s List Fall 2014 and Spring 2015. The Dean’s List recognizes academic achievement within a single semester or semester. 
 
-* ‘America, Asia and Oceania’ Scholarship for bachelor international studies out of Europe. San Diego State University, US. 2014.
+* ‘America, Asia and Oceania’ Scholarship for bachelor international studies out of Europe by University of Zaragoza. 2014-2015.
 
 * Fellowship of good academic standing for language immersion in Canada, given by the Regional Government of Aragon (Spain). 2011.
 
