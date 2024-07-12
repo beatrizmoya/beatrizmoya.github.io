@@ -1,9 +1,7 @@
-#### Hybrid twins, physics informed-machine learning, augmented intelligence
+#### Hybrid twins, physics-informed machine learning, augmented intelligence
 
 
-## WORK EXPERIENCE
-
-
+# WORK EXPERIENCE
 
 **Research Fellow (June 2023-present) @ CNRS@CREATE**
 * Researcher at [Descartes](https://descartes.cnrsatcreate.cnrs.fr/) project 
@@ -20,8 +18,7 @@ Early Stage Researcher (2018–2022) @ University of Zaragoza
 Research Assistant (Sept 2014–Jan 2015) @ San Diego State University
 
 
-
-## EDUCATION
+# EDUCATION
 University of Zaragoza (2018–2022) Ph.D. Mechanical Engineering
 * Learned simulation as the engine of physical scene understanding. Cum Laude. 
 * Supervisors: Prof. David González and Prof. Elías Cueto
@@ -30,7 +27,7 @@ University of Zaragoza (2015–2017) MSc Industrial Engineering
 
 University of Zaragoza (2011–2015) BSc Mechanical Engineering
 
-## TEACHING
+# TEACHING EXPERIENCE
 
 University of Zaragoza. 240h 
 
@@ -63,11 +60,15 @@ University of Zaragoza. 240h
 
 2. Generative design of structures using physics-driven artificial intelligence (2023). Guillén Vicente.
 
+### VISITING STUDENTS
+1. MSc Student: Flavien Alonzo (2019). From École Centrale de Nantes.
+2. MSc Student: Gaston Ravanas (2024). From ENS Paris Saclay.  
+
 ## INNOVATION PROGRAMS
 
 1. Teaching innovation project on Graphic Statics. Incorporation of Computational graphic statics in BSc Architecture. Academic Year 2021-2022.
 
-## CONFERENCES & PRESENTATIONS
+# CONFERENCES & PRESENTATIONS
 
 *	Physics-informed Generative Adversarial Networks for interactive structural shell design. Eccomas Young Investigators Conference VIII- Oporto, Portugal. 2023. 
 *	Reinforcement for physically sound fluid dynamics correction. CMN 2022 – Las Palmas de Gran Canaria, Spain.
@@ -84,37 +85,24 @@ University of Zaragoza. 240h
 
 
 ## KEYNOTES
-*Thermodynamically admissible reinforcement learning in the development of cognitive digital twins. IUTAM Symposium on Data-Driven Mechanics and Surrogate Modeling 2022. Paris, France. 
-*Thermodynamics-informed reinforcement learning of fluid dynamics from observation. World Congress in Computational Mechanics and Asian-Pacific Congress on Computational Mechanics (WCCM 2022). Yokohama, Japan; ON LINE
+
+* Thermodynamically admissible reinforcement learning in the development of cognitive digital twins. IUTAM Symposium on Data-Driven Mechanics and Surrogate Modeling 2022. Paris, France. 
+
+* Thermodynamics-informed reinforcement learning of fluid dynamics from observation. World Congress in Computational Mechanics and Asian-Pacific Congress on Computational Mechanics (WCCM 2022). Yokohama, Japan; ON LINE
 
 ## MINISYMPOSIUM ORGANIZATION
 *	Physical models and reduced order models augmentation with data for physics-informed machine learning in real-world applications. World Congress in Computational Mechanics 2024. Organized together with Marco Tezzele, Annika Robens-Radermacher and Chady Ghnatios. 
 * Scientific Machine Learning techniques for complex engineering systems. ECCOMAS Young Investigators Conference 20213. Organized together with Matteo Giacomini, Alberto Badías and Filippo Masi. 
 *	Model order reduction and artificial intelligence techniques for surrogate and data-assisted models in computational engineering. ECCOMAS Young Investigators Conference 2021. Organized together with Matteo Giacomini and Alberto Badías. 
 
-
-
-## ROLES
-
-**Coordinator (June 2024-present)**
-
-* Member of the Scientific Commission at the University of Zaragoza. Elected as representative of the doctoral alumni. 2020-2022.
-  
-* Member of the steering commission, Ph. D. program on Mechanical Engineering at the University of Zaragoza. 2020-2022.
-  
-* Member of Quality Commission. Ph. D. program in Mechanical Engineering at the University of Zaragoza. 2020-2022.
-
-## AFFILIATIONS
-* Member of the Young Researchers Section of the Spanish Society of Computational Mechanics and Computational Engineering (SEMNI)
-
-## PROJECTS & FUNDING
-* Margarita Salas fellowship. Self-funded NEXT GEN project Dec 2022 - Dec 2024.
+# PROJECTS & FUNDING
+* Margarita Salas fellowship. Self-funded NEXT GEN project by University of Zaragoza and Ministry of Science. Dec 2022 - Dec 2024.
 
 * Ibercaja Scholarship for International Research stays. 2021.
 
 * FPI fellowship for PhD research funding. Spanish Ministry of Science. 2019-2022.
 
-## AWARDS
+# AWARDS
 
 **Award to best Teaching innovation project by Chair Banco Santander (University of Zaragoza)**
 
@@ -122,11 +110,54 @@ University of Zaragoza. 240h
 
 * Finalist Arts&Science Contest at WCCM 2020 with “Figments of reality”.
 
-* Torres de Miguel Award. Award to the best project. Given by the Official Engineering Association of Aragon, Navarra and La Rioja. Zaragoza (Spain). 2018.
+* Torres de Miguel Award. Award to the best project. Given by the Official Engineering Association of Aragon, Navarra, and La Rioja. Zaragoza (Spain). 2018.
 
 * San Diego State University Dean’s List Fall 2014 and Spring 2015. The Dean’s List recognizes academic achievement within a single semester or semester. 
 
-* ‘America, Asia and Oceania’ Scholarship for bachelor international studies out of Europe by University of Zaragoza. 2014-2015.
+* ‘America, Asia and Oceania’ Scholarship for bachelor international studies out of Europe by the University of Zaragoza. 2014-2015.
 
 * Fellowship of good academic standing for language immersion in Canada, given by the Regional Government of Aragon (Spain). 2011.
+
+# PROFFESIONAL ENGAGEMENT
+
+## GUEST EDITOR
+Guest editor in chief in collection Advances in Machine Learning and Computational Mechanics (https://www.springeropen.com/collections/AMLCM ) in Advanced Modeling and Simulation in Engineering Sciences. Due date submissions Aug 15th, 2024. 
+
+## ROLES
+
+**Coordinator of the Young Researchers Section of the Spanish Society of Computational Mechanics and Computational Engineering (SEMNI).  (June 2024-present)**
+
+* Board member  of the Young Researchers Section of the Spanish Society of Computational Mechanics and Computational Engineering (SEMNI).  (June 2022-present)
+  
+* Member of the Scientific Commission at the University of Zaragoza. Elected as representative of the doctoral alumni. 2020-2022.
+
+* Member of the Scientific Commission at the University of Zaragoza. Elected as representative of the doctoral alumni. 2020-2022.
+  
+* Member of the Ph. D. program on Mechanical Engineering at the University of Zaragoza. 2020-2022.
+  
+* Member of Quality Commission. Ph. D. program in Mechanical Engineering at the University of Zaragoza. 2020-2022.
+
+## AFFILIATIONS
+* Member of the Young Researchers Section of the Spanish Society of Computational Mechanics and Computational Engineering (SEMNI)
+
+## OUTREACH COMMUNICATION
+
+**NEWEST**
+**Video on Innovation teaching program to include graphic statics in the engineering curriculum https://www.youtube.com/watch?v=YAvVp5u4zNI**
+**Open platform for learning by interaction of graphic statics https://sergiolc2000.github.io/paginaweb-estaticagrafica/**
+
+
+*	Participation in the European Researchers' Night (2019, 2020, 2021): https://www.youtube.com/watch?v=Wu2KVFctSBI&t=51s 
+*	Radio interview: https://www.ivoox.com/mananas-onda-aragonesa-el-gemelo-audios-mp3_rf_58255616_1.html
+*	Participation and finalist of the contest "Explain your thesis in 20 tweets". https://twitter.com/BeatrizMoyaG/status/1381539927914131456?s=20&t=UHsEsgLlPSoi1I0KGZaYxA 
+*	Finalist in Arts and Science contest in the 2020 World Congress in Computational Mechanics with the picture Figments of reality. https://twitter.com/beatrizmoyag/status/1346065933803139072
+*	Participation in the program "A woman engineer in every school", giving talks to young children, and additional talks for children in schools (11F ACTIONS): https://aragonuniversidad.es/universidad/cerca-de-800-alumnos-de-primaria-de-aragon-debaten-con-los-investigadores-como-sera-la-vida-en-2075/
+*	Article in the local press: Aprender a razonar, el ser o no ser de la robótica (Learning to reason, the to be or not to be of robotics). Heraldo de Aragón. https://www.heraldo.es/noticias/aragon/2021/11/20/aprender-a-razonar-el-ser-o-no-ser-de-la-robotica-1534983.html
+*	Videos :
+**	Self-learning digital twins for sloshing fluids. https://www.youtube.com/watch?v=d1JyhPNkLkU 
+**	Physics perception in sloshing scenes. https://www.youtube.com/watch?v=Qlb1VpWRVaQ 
+**	Physics-informed Reinforcement Learning for perception and reasoning about fluids. https://www.youtube.com/watch?v=ikPgZMpsCFk
+*	Science stand-up comedy courses to perform at events for the general public.
+*	Talk in Circular engineering series in middle schools (2023)
+
 
