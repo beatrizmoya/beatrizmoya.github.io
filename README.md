@@ -68,7 +68,7 @@ University of Zaragoza. 240h
 
 1. Teaching innovation project on Graphic Statics. Incorporation of Computational graphic statics in BSc Architecture. Academic Year 2021-2022.
 
-# PUBLICATIONS
+# PUBLICATIONS (including open access to papers if available)
 * Bermejo-Barbanoj, C., Moya, B., Badías, A., Chinesta, F., & Cueto, E (2024). Super-resolution with thermodynamics-informed neural networks in fluid dynamics problems. Computer Methods in Applied Mechanics and Engineering. IF: 6.9 Q1 [![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://arxiv.org/html/2402.17506v2)
 * Moya, B., Badías, A., González, D., Chinesta, F., & Cueto, E. (2023). Computational Sensing, Understanding, and Reasoning: An Artificial Intelligence Approach to Physics-Informed World Modelling. Archives of Computational Methods in Engineering, 1-18. IF: 9.7 Q1 [![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://amb.unizar.es/wp-content/uploads/2023/10/review_compressed.pdf)
 * Pichi, F., Moya, B., & Hesthaven, J. S. (2024). A graph convolutional autoencoder approach to model order reduction for parametrized PDEs. Journal of Computational Physics, 501, 112762. IF: 4.645 Q1 [![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://arxiv.org/abs/2305.08573)
@@ -76,7 +76,7 @@ University of Zaragoza. 240h
 * Moya, B., Badías, A., González, D., Chinesta, F., & Cueto, E. (2022). Physics perception in sloshing scenes with guaranteed thermodynamic consistency. IEEE Transactions on Pattern Analysis and Machine Intelligence, 45(2), 2136-2150. IF: 16.389 Q1 [![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://arxiv.org/abs/2106.13301)
 * Moya, B., Badías, A., Alfaro, I., Chinesta, F., & Cueto, E. (2020). Digital twins that learn and correct themselves. International Journal for Numerical Methods in Engineering. IF: 3.477 Q1 [![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://amb.unizar.es/wp-content/uploads/2020/08/DigitalTwins.pdf)
 * Moya, B., Alfaro, I., González, D., Chinesta, F., & Cueto, E. (2020). Physically sound, self-learning digital twins for sloshing fluids. PloS one, 15(6), e0234569. IF: 3.240 Q1 [![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234569)
-* Moya, B., González, D., Alfaro, I., Chinesta, F., & Cueto, E. (2019). Learning slosh dynamics by means of data. Computational Mechanics, 64(2), 511-523. IF: 4.014 Q1 Available at https://amb.unizar.es/wp-content/uploads/2019/04/sloshingdynamics.pdf  [![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://amb.unizar.es/wp-content/uploads/2019/04/sloshingdynamics.pdf)
+* Moya, B., González, D., Alfaro, I., Chinesta, F., & Cueto, E. (2019). Learning slosh dynamics by means of data. Computational Mechanics, 64(2), 511-523. IF: 4.014 Q1 [![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://amb.unizar.es/wp-content/uploads/2019/04/sloshingdynamics.pdf)
 
 
 Under review
